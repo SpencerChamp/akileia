@@ -1,1 +1,2 @@
-res://Scenes/game.tscn
+res://scenes/collision_shape_3d.tscn
+res://scenes/game.tscn
