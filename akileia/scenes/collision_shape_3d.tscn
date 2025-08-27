@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://b5owwp57m4s4v"]
+
+[sub_resource type="SphereShape3D" id="SphereShape3D_walfp"]
+
+[node name="CollisionShape3D" type="CollisionShape3D"]
+shape = SubResource("SphereShape3D_walfp")
+debug_color = Color(0.337336, 0.468669, 1, 1)
